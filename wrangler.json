@@ -11,7 +11,7 @@
     "enabled": true
   },
   "upload_source_maps": true
-    "routes": [
+    ,"routes": [
     {
       "pattern": "shop.example.com",
       "custom_domain": true
