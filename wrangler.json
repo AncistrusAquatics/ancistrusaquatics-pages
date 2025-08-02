@@ -11,10 +11,4 @@
     "enabled": true
   },
   "upload_source_maps": true
-  "routes": [
-    {
-      "pattern": "ancistrusaquatics.com",
-      "custom_domain": true
-    }
-  ]
 }
